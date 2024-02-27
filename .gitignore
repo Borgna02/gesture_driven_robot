@@ -1,0 +1,7 @@
+documentazione/*
+!*.tex
+!*.bib
+!*.pptx
+!*.pdf
+!immagini
+!*.mp4
